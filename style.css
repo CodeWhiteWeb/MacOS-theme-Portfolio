@@ -1,0 +1,10 @@
+.dropdown{
+ z-index:100; 
+}
+.atv{
+  background:#000;
+  border-radius:6px;
+  color:#fff;
+  cursor: context-menu;
+}
+.resizedTextbox {width: 950px; height: 150px}
